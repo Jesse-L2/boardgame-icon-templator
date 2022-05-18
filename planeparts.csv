@@ -1,0 +1,49 @@
+﻿Part Name,Number,Type,Color,Cost,Fly,Money,Pop,Lucky,VP
+3-Axis Control,1,tail,gray,3,5,,,,
+Wooden Frame,1,body,gray,3,2,,2,,
+Wing Warping,1,wings,gray,3,2,1,,,
+Propellers,1,engine,gray,3,,,,1,
+Wooden Frame,2,body,gray,4,6,,,,
+Wing Warping,2,wings,gray,4,3,,2,,
+Propellers,2,engine,gray,4,3,1,,,
+3-Axis Control,2,tail,gray,4,1,,,1,
+Propellers,3,engine,gray,5,7,,,,
+3-Axis Control,3,tail,gray,5,4,,2,0,
+Wooden Frame,3,body,gray,5,4,1,,,
+Wing Warping,3,wings,gray,5,2,,,1,
+Improved Elevators,1,tail,blue,4,7,,,,
+Landing Gear,1,engine,blue,4,4,,2,,
+Ailerons,1,wings,blue,4,4,1,,,
+Seaplane,1,body,blue,4,2,,,1,
+Seaplane,2,body,blue,5,5,,2,,
+Improved Elevators,2,tail,blue,5,2,1,2,,
+Landing Gear,2,engine,blue,5,5,1,,,
+Ailerons,2,wings,blue,5,3,,,1,
+Seaplane,3,body,blue,6,9,,,,
+Improved Elevators,3,tail,blue,6,6,,2,,
+Landing Gear,3,engine,blue,6,6,1,,,
+Ailerons,3,wings,blue,6,4,,,1,
+Steel Body,1,body,green,6,10,,,,
+Cargo Bay,1,tail,green,6,7,1,,,
+Air Cooling,1,engine,green,6,4,,4,,
+Monoplane,1,wings,green,6,5,,,1,
+Steel Body,2,body,green,7,2,1,4,,
+Cargo Bay,2,tail,green,7,8,1,,,
+Air Cooling,2,engine,green,7,8,,2,,
+Monoplane,2,wings,green,7,6,,,1,
+Steel Body,3,body,green,8,6,2,,,
+Cargo Bay,3,tail,green,8,6,1,2,,
+Air Cooling,3,engine,green,8,8,,3,,
+Monoplane,3,wings,green,8,6,,1,1,
+Airbrakes,1,wings,red,9,6,3,,,2
+Radio,1,body,red,9,9,,4,,2
+Gyroscopic Autopilot,1,tail,red,9,6,2,2,,2
+Mounted Machine Guns,1,engine,red,9,5,,,2,2
+Airbrakes,2,wings,red,10,7,,6,,2
+Radio,2,body,red,10,7,2,2,,2
+Gyroscopic Autopilot,2,tail,red,10,10,1,2,,2
+Mounted Machine Guns,2,engine,red,10,11,,,1,2
+Airbrakes,3,wings,red,11,13,,3,,2
+Radio,3,body,red,11,13,1,1,,2
+Gyroscopic Autopilot,3,tail,red,11,16,,1,,2
+Mounted Machine Guns,3,engine,red,11,8,,,2,2
